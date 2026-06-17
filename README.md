@@ -1,4 +1,4 @@
-# 🎹 Arduino MIDI Pedalboard
+# Arduino MIDI Pedalboard
 
 > Convert an old 32-key pedalboard into a MIDI controller using Hall effect sensors.
 
@@ -6,13 +6,13 @@ Largely inspired by [Making a 25-key MIDI keyboard with an Arduino](https://medi
 
 ---
 
-## ⚡ How it works
+## How it works
 
 The Arduino Pro Micro is powered via USB-C from a computer. Through that same cable, it sends MIDI data directly to the computer, where [GrandOrgue](https://github.com/GrandOrgue/grandorgue) interprets it as a standard pedalboard input — no additional interface or driver required.
 
 ---
 
-## 🛠️ Electronics
+## Electronics
 
 | Component | Quantity |
 |---|---|
@@ -26,7 +26,7 @@ The Arduino Pro Micro is powered via USB-C from a computer. Through that same ca
 
 ---
 
-## 📸 Build gallery
+## Build gallery
 
 <p align="center">
   <img src="images/pedalboard_before_1.jpg" alt="Original pedalboard — front view" width="600">
