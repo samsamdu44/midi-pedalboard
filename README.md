@@ -8,7 +8,7 @@ Largely inspired by [Making a 25-key MIDI keyboard with an Arduino](https://medi
 
 ## ⚡ How it works
 
-The Arduino Pro Micro is powered via USB-C from a computer. Through that same cable, it sends MIDI data directly to the computer, where [GrandOrgue](https://github.com/GrandOrgueMusic/grandorgue) interprets it as a standard pedalboard input — no additional interface or driver required.
+The Arduino Pro Micro is powered via USB-C from a computer. Through that same cable, it sends MIDI data directly to the computer, where [GrandOrgue](https://github.com/GrandOrgue/grandorgue) interprets it as a standard pedalboard input — no additional interface or driver required.
 
 ---
 
